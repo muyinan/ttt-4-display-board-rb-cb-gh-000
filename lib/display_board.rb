@@ -4,5 +4,5 @@ def display_board(a)
   puts "-----------"
   puts " #{a[3]} | #{a[4]} | #{a[5]} "
   puts "-----------"
-  puts " #{a[6]} | #{a[7]}| #{a[8]} "
+  puts " #{a[6]} | #{a[7]} | #{a[8]} "
 end
